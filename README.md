@@ -11,9 +11,9 @@ Guide:
 1. To get started, Install the required libraries using requirements.txt
 2. Download yolov3.weights using this link 'https://pjreddie.com/media/files/yolov3.weights' and save it in models folder.
 3. To run the web - application, use 'python app.py' command. 
-4. On the home page, you get three options: My Own Camera
-					    Live stream Video
-					    Video on my PC
+4. On the home page, you get three options: My Own Camera;
+					    Live stream Video;
+					    Video on my PC.
 
 
 5. On selecting "Video on my PC" option, you can upload the video from your device. 
