@@ -257,9 +257,6 @@ def social_distance_detector():
                     writer.write(frame)
         return 'Output video is Genereated, Please check the application folder'
 
-# USAGE
-# python social_distance_detector.py --input pedestrians.mp4
-# python social_distance_detector.py --input pedestrians.mp4 --output output.avi
 
 if __name__ == '__main__':
     #app.debug = True
